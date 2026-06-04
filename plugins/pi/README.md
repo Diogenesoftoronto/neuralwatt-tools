@@ -1,4 +1,4 @@
-# Neuralwatt MCR Extension for Pi
+# Neuralwatt MCR Extension for Hermes
 
 A drop-in extension for [Pi](https://pi.dev) that unlocks Neuralwatt's MCR (Managed Context Runtime) long-context models. Get **1M virtual context** through transparent server-side compaction, with on-demand recall of dropped messages via the `mcr_lookup` tool.
 
